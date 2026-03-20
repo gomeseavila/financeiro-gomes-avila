@@ -1,4 +1,4 @@
-# Gomes & Ávila | Financeiro Empresarial
+# Gomes & Avila | Financeiro Empresarial
 
 Projeto React + Vite pronto para publicar no Vercel.
 
